@@ -21,9 +21,14 @@
 <img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
 
 
+<div align="center"> 
+<a href="https://instagram.com/ellnscg/" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/ellnscg/ellnscg/assets/132704668/308d2102-e33d-40d6-961c-1131bd3cd51c">
+</a>
 
-
-
+<a  href="https://www.linkedin.com/in/ellen-luana-9536b0261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/ellnscg/ellnscg/assets/132704668/a8137eee-64f6-4f3f-8470-5bd33d73b4a7">
+</a>
 
 
 
