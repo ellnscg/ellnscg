@@ -15,12 +15,6 @@
 </div>
 
 
-
-
-
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
-
-
 <div align="center"> 
 <a href="https://instagram.com/ellnscg/" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/ellnscg/ellnscg/assets/132704668/308d2102-e33d-40d6-961c-1131bd3cd51c">
