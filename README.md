@@ -1,4 +1,6 @@
-<img width=100% bottom=50px src="https://github.com/ellnscg/ellnscg/assets/132704668/2c69f886-3d20-40c7-b7fc-ff292cc9f34a"/>
+<div align="center">
+
+<img width=50% bottom=50px src="https://github.com/ellnscg/ellnscg/assets/132704668/67d33487-f143-4a08-bf60-64ea1256cf8f"/>
 <br>
 <br> 
 
