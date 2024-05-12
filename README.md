@@ -4,11 +4,13 @@
 <br>
 <br> 
 
+<br>
+<br>
+<div align="center">
 
-  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=224CF7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Welcome!;Hello%2C+my+names+is+Ellen;I'm+19+years+old;I'm+Back-And+Developer)](https://git.io/typing-svg)
 
-<div align="center">
+</div>
 
 <br>
 <br>
