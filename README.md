@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width=50% bottom=50px src="https://github.com/ellnscg/ellnscg/assets/132704668/67d33487-f143-4a08-bf60-64ea1256cf8f"/>
+<img width=30% bottom=50px src="https://github.com/ellnscg/ellnscg/assets/132704668/67d33487-f143-4a08-bf60-64ea1256cf8f"/>
 <br>
 <br> 
 
